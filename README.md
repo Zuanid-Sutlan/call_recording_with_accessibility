@@ -17,4 +17,4 @@ This project is an Android application built with Jetpack Compose that records p
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Zuanid-Sutlan/android-call-recorder.git
+   git clone https://github.com/Zuanid-Sutlan/call_recording_with_accessibility.git
